@@ -8,3 +8,4 @@
          print (i-arr[idx])*rat[idx]
          i=arr[idx]
  print r
+ 
