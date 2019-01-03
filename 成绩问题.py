@@ -7,7 +7,7 @@ if score >= 90:
     grade = 'A'
 elif score >= 60:
     grade = 'B'
-else:
+else: 
     grade = 'C'
  
 print '%d ÊôÓÚ %s' % (score,grade)
