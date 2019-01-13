@@ -2,7 +2,6 @@
 # -*- coding: UTF-8 -*-
   
   
-  
 score = int(raw_input('ÊäÈë·ÖÊý:\n'))
 if score >= 90:
     grade = 'A'
