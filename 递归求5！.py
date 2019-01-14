@@ -8,5 +8,5 @@ def fact(j):
     else:
         sum = j * fact(j - 1)
     return sum
- 
+  
 print fact(5)
