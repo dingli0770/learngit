@@ -9,4 +9,3 @@
          i=arr[idx]
  print r
  
-
