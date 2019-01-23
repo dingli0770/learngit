@@ -2,7 +2,6 @@
  # -*- coding: UTF-8 -*-
  
 
- 
 def fact(j):
     sum = 0
     if j == 0:
