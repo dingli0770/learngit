@@ -8,5 +8,3 @@ for i in range(1,22):
      f2 = f1 + f2
 
      
-
- 
