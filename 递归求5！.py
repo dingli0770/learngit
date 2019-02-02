@@ -10,4 +10,3 @@ def fact(j):
     return sum
   
 print fact(5)
-
