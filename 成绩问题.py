@@ -11,5 +11,3 @@ else:
  
 print '%d ÊôÓÚ %s' % (score,grade)
 
-
-
