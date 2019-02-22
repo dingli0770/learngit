@@ -10,4 +10,4 @@ else:
     grade = 'C'
  
 print '%d ÊôÓÚ %s' % (score,grade)
-
+ 
