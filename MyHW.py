@@ -1,4 +1,4 @@
-# MyLibrary.py
+# MyHW.py
 
 import sys, time, random, math, pygame
 from pygame.locals import *
