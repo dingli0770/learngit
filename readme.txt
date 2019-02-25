@@ -1,2 +1,6 @@
-t is a version control system.
-Git is free software.
+
+吃苹果小游戏
+
+
+![](./previews/previews1.png)  
+
