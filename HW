@@ -23,7 +23,7 @@ timer = pygame.time.Clock()
 #创建精灵组
 player_group = pygame.sprite.Group()
 food_group = pygame.sprite.Group()
-
+ 
 #初始化玩家精灵组
 player = MySprite()
 player.load("farmer walk.png", 96, 96, 8)
